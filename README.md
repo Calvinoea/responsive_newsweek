@@ -22,7 +22,7 @@ It is a responsive clone of Newsweek (Newsweek).
   
 ## Live Project  
 
-[Newsweek](https://amazing-colden-99bae9.netlify.com/)  
+[Project](https://amazing-colden-99bae9.netlify.com/)  
 
 
 

@@ -1,7 +1,7 @@
 # responsive_newsweek
 
 
-Response Design- The Next Web
+Bootstrap- [Newsweek](https://newsweek.com/)  
   
 # What it does  
   
@@ -22,9 +22,9 @@ It is a responsive clone of Newsweek (Newsweek).
   
 ## Live Project  
 
-[The Next Web](https://amazing-colden-99bae9.netlify.com/)  
+[Newsweek](https://amazing-colden-99bae9.netlify.com/)  
 
-![Newsweek](.https://amazing-colden-99bae9.netlify.com/)  
+
 
 
 ## Getting Article Started  

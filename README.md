@@ -5,7 +5,7 @@ Response Design- The Next Web
   
 # What it does  
   
-It is a responsive clone of Newsweek (https://thenextweb.com/).
+It is a responsive clone of Newsweek (Newsweek).
   
 ## Screenshot
 

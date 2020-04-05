@@ -9,7 +9,7 @@ It is a responsive clone of Newsweek (Newsweek).
   
 ## Screenshot
 
-![screenshot](./images/screenshotFour.png)
+![screenshot](./images/screenshotThree.png)
 ![screenshot](./images/screenshotFive.png)
 
 ## Built With  
